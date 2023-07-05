@@ -1,0 +1,9 @@
+.navbar{
+  display: flex;
+  justify-content: left;
+  padding: 8px;
+  color: aliceblue;
+  font-weight: bold;
+  font-size: 23px;
+  background-color: #014B7D;
+}

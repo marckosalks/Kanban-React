@@ -1,0 +1,45 @@
+.task-item{
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  box-shadow: 0 1px 0 rgba(9, 30, 66, 0.25);
+  cursor: pointer;
+  margin-bottom: 8px;
+  width: 100%;
+  padding:  8px 4px;
+  color: #222;
+  font-size: 14px;
+
+}
+
+input{
+  border: none;
+  border-radius: 3px;
+  font-weight: 300;
+
+}
+
+
+.task-item input[type="text"]{
+  font-size: 14px;
+  display: block;
+  width: 100%;
+}
+
+.tarefa{
+  text-align: center;
+  color: aliceblue;
+}
+
+.task-item select {
+  text-align: center;
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  background-color: #538ba9;
+  border: none;
+  color: aliceblue;
+  font-weight: bold;
+}
+
+
+

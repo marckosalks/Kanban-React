@@ -1,0 +1,46 @@
+.tasklist {
+  padding: 8px;
+  background-color: #5797b9;
+  border-radius: 2px ;
+}
+
+.title{
+  padding: 4px;
+  font-weight: bold;
+  background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.content{
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.btn{
+  display: flex;
+  padding: 8px;
+  margin-top: 8px;
+  justify-content: center;
+  color: aliceblue;
+  border: none;
+  border-radius: 3px;
+  width: 100%;
+  transition: background-color 0.3s;
+  font-size: 12px;
+  font-weight: bold;
+  background: none;
+  background: #014B7D;
+}
+
+.btn:hover{
+  cursor: pointer ;
+  background-color: #7ADAEE;
+}
+
+.btn img{
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
+}
