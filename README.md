@@ -15,5 +15,6 @@
 
 🌟 Estou empolgado em compartilhar mais sobre como implementamos o Kanban em nosso projeto e os resultados impressionantes que alcançamos. Se você deseja explorar mais sobre essa metodologia, sinta-se à vontade para entrar em contato comigo. Estou pronto para compartilhar experiências e discutir como o Kanban pode impulsionar o sucesso do seu próximo projeto.
 
-Disponível no GitHub: https://lnkd.in/d2VpgZxZ
-.
+
+![Captura de tela 2023-07-05 120603](https://github.com/marckosalks/Kanban-React/assets/84982384/5d72f207-f671-4e0e-8d3e-8e2a4ac26470)
+
